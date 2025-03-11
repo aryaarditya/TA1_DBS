@@ -8,10 +8,10 @@ pip install -r requirments.txt
 ```
 ## Setup Environtment - Terminal
 ```
-mkdir Proyek akhir-Tugas Akhir
-cd Proyek akhir-Tugas Akhir
+mkdir Tugas Akhir
+cd Tugas Akhir
 pip install -r requirments.txt
 ```
 ## Run stramlit
 ```
-streamlit run TA1.py
+streamlit run dashboard/TA1.py
