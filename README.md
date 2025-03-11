@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 mkdir Proyek akhir-Tugas Akhir
 cd Proyek akhir-Tugas Akhir
-pip install -r requirements.txt
+pip install -r requirments.txt
 ```
 ## Run stramlit
 ```
