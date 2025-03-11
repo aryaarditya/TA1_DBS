@@ -3,14 +3,13 @@
 ```
 conda create --name main-ds python
 conda avtivate main-ds
-pip install --no-cache-dir -r requirments.txt
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 ## Setup Environtment - Terminal
 ```
 mkdir Tugas Akhir
 cd Tugas Akhir
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 ## Run stramlit
 ```
