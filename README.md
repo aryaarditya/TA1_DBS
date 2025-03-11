@@ -3,8 +3,8 @@
 ```
 conda create --name main-ds python
 conda avtivate main-ds
-pip install --no-cache-dir -r requirements.txt
-pip install -r requirements.txt
+pip install --no-cache-dir -r requirments.txt
+pip install -r requirments.txt
 ```
 ## Setup Environtment - Terminal
 ```
@@ -14,4 +14,4 @@ pip install -r requirments.txt
 ```
 ## Run stramlit
 ```
-streamlit run berkas.py
+streamlit run TA1.py
